@@ -49,4 +49,4 @@ Thumbs.db
 *.wmv
 
 #Application Properties file
-.application-local.properties
+**/application-local.properties
